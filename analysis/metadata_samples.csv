@@ -1,0 +1,7 @@
+sample_id,condition,time_point_dpa,replicate
+SRR14119237,control,0,1
+SRR14119220,wtap_RNAi,0,1
+SRR14119230,control,7,2
+SRR14119224,wtap_RNAi,7,2
+SRR14119234,control,7,3
+SRR14119222,wtap_RNAi,7,3
